@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickBsd
 - 👀 I develop websites with webflow and customize them entirely with javascript.
-- 🌱 I’m currently learning three.js to add some 3D in my projects.
+- 🌱 I’m currently learning three.js to add some 3D in my projects and i want try Flutter for mobile application.
 - 📫 How to contact me : mickael.boussard@orange.fr
 
 <!---
