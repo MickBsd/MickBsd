@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickBsd low code developer.
 - 👀 I develop webapp and websites with webflow and wized. I customize them entirely with javascript.
-- 🌱 I’m currently learning Flutterflow and Flutter for mobile application.
+- 🌱 I’m currently learning three.js for 3D immersion.
 - 📫 How to contact me : mickael.boussard@orange.fr
 
 <!---
