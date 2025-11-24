@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MickBsd low code developer.
-- 👀 I develop websites and webapp with webflow and wized, and i customize them entirely with javascript.
-- 🌱 I’m currently learning three.js for 3D immersion.
+- 👋 Hi, I’m @MickBsd.
+- 👀 I’m starting my training to create my own video game.
+- 🌱 I’m getting started with Unity.
 - 📫 How to contact me : mickael.boussard@orange.fr
 
 <!---
